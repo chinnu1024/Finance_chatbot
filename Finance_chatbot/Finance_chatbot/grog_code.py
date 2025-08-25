@@ -33,7 +33,7 @@ st.markdown(page_bg, unsafe_allow_html=True)
 # =====================================
 # Groq API Configuration
 # =====================================
-GROQ_API_KEY = "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"   # 🔑 Replace with your key
+GROQ_API_KEY = "YOUR_API_KEY"   # 🔑 Replace with your key
 GROQ_MODEL = "llama-3.1-8b-instant"
 
 # =====================================
@@ -225,3 +225,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
